@@ -86,30 +86,6 @@ body {
 
 /* HIDDEN */
 
-/*p::first-line {
-    text-transform: uppercase;
-}
-
-.hidden-word {
-    display: inline-block;
-    font-size: 0;
-    cursor: pointer;
-}
-
-.hidden-word::after {
-    content: "Click";
-    font-size: 18px;
-    color: red;
-}
-
-.hidden-word:active {
-    font-size: 18px;
-}
-
-.hidden-word:active::after {
-    content: "";
-}*/
-
 p::first-line {
     text-transform: uppercase;
 }
